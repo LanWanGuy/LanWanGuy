@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/808aa42d-cfb3-4845-8205-c389ef412308.jpeg?v=1788579433)](https://www.boot.dev/certificates/808aa42d-cfb3-4845-8205-c389ef412308)
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ad5fbf76-6187-411b-a780-4b07c499ceeb.jpeg?v=1788082159)](https://www.boot.dev/certificates/ad5fbf76-6187-411b-a780-4b07c499ceeb)
 
 <!--
 **LanWanGuy/LanWanGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
